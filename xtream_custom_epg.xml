@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Custom Xtream EPG">
+  <channel id="pickboxtv.hr">
+    <display-name>Pickbox TV</display-name>
+    <icon src="https://pickboxtv.hr/logo.png" />
+  </channel>
+  <channel id="kanalri.hr">
+    <display-name>Kanal RI</display-name>
+    <icon src="https://kanalri.hr/logo.png" />
+  </channel>
+  <channel id="vtv.hr">
+    <display-name>VTV</display-name>
+    <icon src="https://vtv.hr/logo.png" />
+  </channel>
+  <channel id="bbcfirst.int">
+    <display-name>BBC First</display-name>
+    <icon src="https://bbcfirst.int/logo.png" />
+  </channel>
+  <channel id="sbtv.hr">
+    <display-name>SBTV</display-name>
+    <icon src="https://sbtv.hr/logo.png" />
+  </channel>
+  <channel id="nickcartoons.int">
+    <display-name>Nick Cartoons</display-name>
+    <icon src="https://nickcartoons.int/logo.png" />
+  </channel>
+  <channel id="hrt1.hr">
+    <display-name>HRT 1</display-name>
+    <icon src="https://hrt1.hr/logo.png" />
+  </channel>
+  <channel id="hrt2.hr">
+    <display-name>HRT 2</display-name>
+    <icon src="https://hrt2.hr/logo.png" />
+  </channel>
+  <channel id="hrt3.hr">
+    <display-name>HRT 3</display-name>
+    <icon src="https://hrt3.hr/logo.png" />
+  </channel>
+  <channel id="hrt4.hr">
+    <display-name>HRT 4</display-name>
+    <icon src="https://hrt4.hr/logo.png" />
+  </channel>
+  <channel id="hrtinternational.hr">
+    <display-name>HRT International</display-name>
+    <icon src="https://hrtinternational.hr/logo.png" />
+  </channel>
+  <channel id="rtl1.hr">
+    <display-name>RTL 1</display-name>
+    <icon src="https://rtl1.hr/logo.png" />
+  </channel>
+  <channel id="rtl21.hr">
+    <display-name>RTL 2 1</display-name>
+    <icon src="https://rtl21.hr/logo.png" />
+  </channel>
+  <channel id="rtlandria.hr">
+    <display-name>RTL Adria</display-name>
+    <icon src="https://rtlandria.hr/logo.png" />
+  </channel>
+  <channel id="rtlcrime.hr">
+    <display-name>RTL Crime</display-name>
+    <icon src="https://rtlcrime.hr/logo.png" />
+  </channel>
+  <channel id="rtlpassion.hr">
+    <display-name>RTL Passion</display-name>
+    <icon src="https://rtlpassion.hr/logo.png" />
+  </channel>
+  <channel id="rtlkockica.hr">
+    <display-name>RTL Kockica</display-name>
+    <icon src="https://rtlkockica.hr/logo.png" />
+  </channel>
+  <channel id="rtlliving.hr">
+    <display-name>RTL Living</display-name>
+    <icon src="https://rtlliving.hr/logo.png" />
+  </channel>
+  <channel id="rtlcroatiaworld.hr">
+    <display-name>RTL Croatia World</display-name>
+    <icon src="https://rtlcroatiaworld.hr/logo.png" />
+  </channel>
+  <channel id="novatv.hr">
+    <display-name>Nova TV</display-name>
+    <icon src="https://novatv.hr/logo.png" />
+  </channel>
+  <channel id="novaworld.hr">
+    <display-name>Nova World</display-name>
+    <icon src="https://novaworld.hr/logo.png" />
+  </channel>
+  <channel id="novacinema.hr">
+    <display-name>Nova Cinema</display-name>
+    <icon src="https://novacinema.hr/logo.png" />
+  </channel>
+  <channel id="novafamily.hr">
+    <display-name>Nova Family</display-name>
+    <icon src="https://novafamily.hr/logo.png" />
+  </channel>
+  <channel id="sportklub1.hr">
+    <display-name>Sport Klub 1</display-name>
+    <icon src="https://sportklub1.hr/logo.png" />
+  </channel>
+  <channel id="sportklub2.hr">
+    <display-name>Sport Klub 2</display-name>
+    <icon src="https://sportklub2.hr/logo.png" />
+  </channel>
+  <channel id="sportklub3.hr">
+    <display-name>Sport Klub 3</display-name>
+    <icon src="https://sportklub3.hr/logo.png" />
+  </channel>
+  <channel id="sportklub4.hr">
+    <display-name>Sport Klub 4</display-name>
+    <icon src="https://sportklub4.hr/logo.png" />
+  </channel>
+  <channel id="sportklub5.hr">
+    <display-name>Sport Klub 5</display-name>
+    <icon src="https://sportklub5.hr/logo.png" />
+  </channel>
+  <channel id="sportklub6.hr">
+    <display-name>Sport Klub 6</display-name>
+    <icon src="https://sportklub6.hr/logo.png" />
+  </channel>
+  <channel id="sportklub7.hr">
+    <display-name>Sport Klub 7</display-name>
+    <icon src="https://sportklub7.hr/logo.png" />
+  </channel>
+  <channel id="sportklub8.hr">
+    <display-name>Sport Klub 8</display-name>
+    <icon src="https://sportklub8.hr/logo.png" />
+  </channel>
+  <channel id="sportklub9.hr">
+    <display-name>Sport Klub 9</display-name>
+    <icon src="https://sportklub9.hr/logo.png" />
+  </channel>
+  <channel id="sportklub10.hr">
+    <display-name>Sport Klub 10</display-name>
+    <icon src="https://sportklub10.hr/logo.png" />
+  </channel>
+  <channel id="sportklub11.hr">
+    <display-name>Sport Klub 11</display-name>
+    <icon src="https://sportklub11.hr/logo.png" />
+  </channel>
+  <channel id="sportklub12.hr">
+    <display-name>Sport Klub 12</display-name>
+    <icon src="https://sportklub12.hr/logo.png" />
+  </channel>
+  <channel id="sportklubgolf.hr">
+    <display-name>Sport Klub Golf</display-name>
+    <icon src="https://sportklubgolf.hr/logo.png" />
+  </channel>
+  <channel id="sportklubfight.hr">
+    <display-name>Sport Klub Fight</display-name>
+    <icon src="https://sportklubfight.hr/logo.png" />
+  </channel>
+  <channel id="arenasport1.hr">
+    <display-name>Arena Sport 1</display-name>
+    <icon src="https://arenasport1.hr/logo.png" />
+  </channel>
+  <channel id="arenasport2.hr">
+    <display-name>Arena Sport 2</display-name>
+    <icon src="https://arenasport2.hr/logo.png" />
+  </channel>
+  <channel id="arenasport3.hr">
+    <display-name>Arena Sport 3</display-name>
+    <icon src="https://arenasport3.hr/logo.png" />
+  </channel>
+  <channel id="arenasport4.hr">
+    <display-name>Arena Sport 4</display-name>
+    <icon src="https://arenasport4.hr/logo.png" />
+  </channel>
+  <channel id="arenasport5.hr">
+    <display-name>Arena Sport 5</display-name>
+    <icon src="https://arenasport5.hr/logo.png" />
+  </channel>
+  <channel id="arenasport6.hr">
+    <display-name>Arena Sport 6</display-name>
+    <icon src="https://arenasport6.hr/logo.png" />
+  </channel>
+  <channel id="arenasport7.hr">
+    <display-name>Arena Sport 7</display-name>
+    <icon src="https://arenasport7.hr/logo.png" />
+  </channel>
+  <channel id="arenasport8.hr">
+    <display-name>Arena Sport 8</display-name>
+    <icon src="https://arenasport8.hr/logo.png" />
+  </channel>
+  <channel id="arenasport9.hr">
+    <display-name>Arena Sport 9</display-name>
+    <icon src="https://arenasport9.hr/logo.png" />
+  </channel>
+  <channel id="arenasport10.hr">
+    <display-name>Arena Sport 10</display-name>
+    <icon src="https://arenasport10.hr/logo.png" />
+  </channel>
+  <channel id="arenaesport.hr">
+    <display-name>Arena eSport</display-name>
+    <icon src="https://arenaesport.hr/logo.png" />
+  </channel>
+  <channel id="arenafight.hr">
+    <display-name>Arena Fight</display-name>
+    <icon src="https://arenafight.hr/logo.png" />
+  </channel>
+  <channel id="maxsport1.hr">
+    <display-name>MaxSport 1</display-name>
+    <icon src="https://maxsport1.hr/logo.png" />
+  </channel>
+  <channel id="maxsport2.hr">
+    <display-name>MaxSport 2</display-name>
+    <icon src="https://maxsport2.hr/logo.png" />
+  </channel>
+  <channel id="sport1.hr">
+    <display-name>Sport 1</display-name>
+    <icon src="https://sport1.hr/logo.png" />
+  </channel>
+  <channel id="cinestartv1.hr">
+    <display-name>CineStar TV 1</display-name>
+    <icon src="https://cinestartv1.hr/logo.png" />
+  </channel>
+  <channel id="cinestartv2.hr">
+    <display-name>CineStar TV 2</display-name>
+    <icon src="https://cinestartv2.hr/logo.png" />
+  </channel>
+  <channel id="cinestaraction.hr">
+    <display-name>CineStar TV Action & Thriller</display-name>
+    <icon src="https://cinestaraction.hr/logo.png" />
+  </channel>
+  <channel id="cinestarcomedy.hr">
+    <display-name>CineStar TV Comedy & Family</display-name>
+    <icon src="https://cinestarcomedy.hr/logo.png" />
+  </channel>
+  <channel id="cinestarfantasy.hr">
+    <display-name>CineStar TV Fantasy</display-name>
+    <icon src="https://cinestarfantasy.hr/logo.png" />
+  </channel>
+  <channel id="cinemax.int">
+    <display-name>Cinemax</display-name>
+    <icon src="https://cinemax.int/logo.png" />
+  </channel>
+  <channel id="cinemax2.int">
+    <display-name>Cinemax 2</display-name>
+    <icon src="https://cinemax2.int/logo.png" />
+  </channel>
+  <channel id="cinestarpremiere.hr">
+    <display-name>CineStar Premiere</display-name>
+    <icon src="https://cinestarpremiere.hr/logo.png" />
+  </channel>
+  <channel id="cinestarpremiere2.hr">
+    <display-name>CineStar Premiere 2</display-name>
+    <icon src="https://cinestarpremiere2.hr/logo.png" />
+  </channel>
+  <channel id="star.int">
+    <display-name>Star</display-name>
+    <icon src="https://star.int/logo.png" />
+  </channel>
+  <channel id="starcrime.int">
+    <display-name>Star Crime</display-name>
+    <icon src="https://starcrime.int/logo.png" />
+  </channel>
+  <channel id="starlife.int">
+    <display-name>Star Life</display-name>
+    <icon src="https://starlife.int/logo.png" />
+  </channel>
+  <channel id="starmovies.int">
+    <display-name>Star Movies</display-name>
+    <icon src="https://starmovies.int/logo.png" />
+  </channel>
+  <channel id="hbo.int">
+    <display-name>HBO</display-name>
+    <icon src="https://hbo.int/logo.png" />
+  </channel>
+  <channel id="hbo2.int">
+    <display-name>HBO 2</display-name>
+    <icon src="https://hbo2.int/logo.png" />
+  </channel>
+  <channel id="hbo3.int">
+    <display-name>HBO 3</display-name>
+    <icon src="https://hbo3.int/logo.png" />
+  </channel>
+  <channel id="viestatexplore.hr">
+    <display-name>Viestat Explore</display-name>
+    <icon src="https://viestatexplore.hr/logo.png" />
+  </channel>
+  <channel id="viestathistory.hr">
+    <display-name>Viestat History</display-name>
+    <icon src="https://viestathistory.hr/logo.png" />
+  </channel>
+  <channel id="viestatnature.hr">
+    <display-name>Viestat Nature</display-name>
+    <icon src="https://viestatnature.hr/logo.png" />
+  </channel>
+  <channel id="viestattruecrime.hr">
+    <display-name>Viestat True Crime</display-name>
+    <icon src="https://viestattruecrime.hr/logo.png" />
+  </channel>
+  <channel id="24kitchen.int">
+    <display-name>24Kitchen</display-name>
+    <icon src="https://24kitchen.int/logo.png" />
+  </channel>
+  <channel id="amcbalkan.hr">
+    <display-name>AMC Balkan</display-name>
+    <icon src="https://amcbalkan.hr/logo.png" />
+  </channel>
+  <channel id="aljazeera.hr">
+    <display-name>Al Jazeera Balkans</display-name>
+    <icon src="https://aljazeera.hr/logo.png" />
+  </channel>
+  <channel id="bbcearth.int">
+    <display-name>BBC Earth</display-name>
+    <icon src="https://bbcearth.int/logo.png" />
+  </channel>
+  <channel id="babytv.int">
+    <display-name>BabyTV</display-name>
+    <icon src="https://babytv.int/logo.png" />
+  </channel>
+  <channel id="crimeandinvestigation.int">
+    <display-name>Crime and Investigation</display-name>
+    <icon src="https://crimeandinvestigation.int/logo.png" />
+  </channel>
+  <channel id="discovery.int">
+    <display-name>Discovery</display-name>
+    <icon src="https://discovery.int/logo.png" />
+  </channel>
+  <channel id="discoverychannel.int">
+    <display-name>Discovery Channel</display-name>
+    <icon src="https://discoverychannel.int/logo.png" />
+  </channel>
+  <channel id="diva.int">
+    <display-name>Diva</display-name>
+    <icon src="https://diva.int/logo.png" />
+  </channel>
+  <channel id="eentertainment.int">
+    <display-name>E! Entertainment</display-name>
+    <icon src="https://eentertainment.int/logo.png" />
+  </channel>
+  <channel id="extratv.hr">
+    <display-name>Extra TV</display-name>
+    <icon src="https://extratv.hr/logo.png" />
+  </channel>
+  <channel id="fastfunbox.int">
+    <display-name>Fast&Fun Box</display-name>
+    <icon src="https://fastfunbox.int/logo.png" />
+  </channel>
+  <channel id="fightbox.int">
+    <display-name>FightBox</display-name>
+    <icon src="https://fightbox.int/logo.png" />
+  </channel>
+  <channel id="hittv.hr">
+    <display-name>Hit TV</display-name>
+    <icon src="https://hittv.hr/logo.png" />
+  </channel>
+  <channel id="history.int">
+    <display-name>History</display-name>
+    <icon src="https://history.int/logo.png" />
+  </channel>
+  <channel id="history2.int">
+    <display-name>History 2</display-name>
+    <icon src="https://history2.int/logo.png" />
+  </channel>
+  <channel id="ictbusiness.hr">
+    <display-name>ICTBusiness TV</display-name>
+    <icon src="https://ictbusiness.hr/logo.png" />
+  </channel>
+  <channel id="jimjam.int">
+    <display-name>Jim Jam</display-name>
+    <icon src="https://jimjam.int/logo.png" />
+  </channel>
+  <channel id="jugoton.hr">
+    <display-name>Jugoton</display-name>
+    <icon src="https://jugoton.hr/logo.png" />
+  </channel>
+  <channel id="kinotv.hr">
+    <display-name>Kino TV</display-name>
+    <icon src="https://kinotv.hr/logo.png" />
+  </channel>
+  <channel id="klapeitambure.hr">
+    <display-name>Klape i Tambure</display-name>
+    <icon src="https://klapeitambure.hr/logo.png" />
+  </channel>
+  <channel id="laudadotv.hr">
+    <display-name>Laudato TV</display-name>
+    <icon src="https://laudadotv.hr/logo.png" />
+  </channel>
+  <channel id="libertastv.hr">
+    <display-name>Libertas TV</display-name>
+    <icon src="https://libertastv.hr/logo.png" />
+  </channel>
+  <channel id="m1film.hr">
+    <display-name>M1 Film</display-name>
+    <icon src="https://m1film.hr/logo.png" />
+  </channel>
+  <channel id="m1gold.hr">
+    <display-name>M1 Gold</display-name>
+    <icon src="https://m1gold.hr/logo.png" />
+  </channel>
+  <channel id="mtv00s.int">
+    <display-name>MTV 00s</display-name>
+    <icon src="https://mtv00s.int/logo.png" />
+  </channel>
+  <channel id="mtv80s.int">
+    <display-name>MTV 80s</display-name>
+    <icon src="https://mtv80s.int/logo.png" />
+  </channel>
+  <channel id="minitv.hr">
+    <display-name>Mini TV</display-name>
+    <icon src="https://minitv.hr/logo.png" />
+  </channel>
+  <channel id="mrezatv.hr">
+    <display-name>Mreža TV</display-name>
+    <icon src="https://mrezatv.hr/logo.png" />
+  </channel>
+  <channel id="natgeo.int">
+    <display-name>National Geographic</display-name>
+    <icon src="https://natgeo.int/logo.png" />
+  </channel>
+  <channel id="nickjr.int">
+    <display-name>Nick Jr</display-name>
+    <icon src="https://nickjr.int/logo.png" />
+  </channel>
+  <channel id="otv.hr">
+    <display-name>OTV</display-name>
+    <icon src="https://otv.hr/logo.png" />
+  </channel>
+  <channel id="osjecka.hr">
+    <display-name>Osječka</display-name>
+    <icon src="https://osjecka.hr/logo.png" />
+  </channel>
+  <channel id="plavavinkovacka.hr">
+    <display-name>Plava Vinkovačka</display-name>
+    <icon src="https://plavavinkovacka.hr/logo.png" />
+  </channel>
+  <channel id="saborskatv.hr">
+    <display-name>Saborska TV</display-name>
+    <icon src="https://saborskatv.hr/logo.png" />
+  </channel>
+  <channel id="scifi.int">
+    <display-name>Sci Fi</display-name>
+    <icon src="https://scifi.int/logo.png" />
+  </channel>
+  <channel id="sportskatv2.hr">
+    <display-name>Sportska TV 2</display-name>
+    <icon src="https://sportskatv2.hr/logo.png" />
+  </channel>
+  <channel id="tvdalmacija.hr">
+    <display-name>TV Dalmacija</display-name>
+    <icon src="https://tvdalmacija.hr/logo.png" />
+  </channel>
+  <channel id="tvnovapula.hr">
+    <display-name>TV Nova Pula</display-name>
+    <icon src="https://tvnovapula.hr/logo.png" />
+  </channel>
+  <channel id="televizijazapad.hr">
+    <display-name>Televizija Zapad</display-name>
+    <icon src="https://televizijazapad.hr/logo.png" />
+  </channel>
+  <channel id="z1.hr">
+    <display-name>Z1</display-name>
+    <icon src="https://z1.hr/logo.png" />
+  </channel>
+  <channel id="zdravatv.hr">
+    <display-name>Zdrava TV</display-name>
+    <icon src="https://zdravatv.hr/logo.png" />
+  </channel>
+  <channel id="cmc.hr">
+    <display-name>CMC</display-name>
+    <icon src="https://cmc.hr/logo.png" />
+  </channel>
+  <channel id="dokutv.hr">
+    <display-name>Doku TV</display-name>
+    <icon src="https://dokutv.hr/logo.png" />
+  </channel>
+  <channel id="cartoonnetwork.int">
+    <display-name>Cartoon Network</display-name>
+    <icon src="https://cartoonnetwork.int/logo.png" />
+  </channel>
+  <channel id="jugotontc.hr">
+    <display-name>Jugoton TC</display-name>
+    <icon src="https://jugotontc.hr/logo.png" />
+  </channel>
+  <channel id="tvbanovina.hr">
+    <display-name>TV Banovina</display-name>
+    <icon src="https://tvbanovina.hr/logo.png" />
+  </channel>
+  <channel id="n1.hr">
+    <display-name>N1</display-name>
+    <icon src="https://n1.hr/logo.png" />
+  </channel>
+  <channel id="nickelodeon.int">
+    <display-name>Nickelodeon</display-name>
+    <icon src="https://nickelodeon.int/logo.png" />
+  </channel>
+  <channel id="nickjrhr.hr">
+    <display-name>Nick Jr. Hrvatski</display-name>
+    <icon src="https://nickjrhr.hr/logo.png" />
+  </channel>
+  <channel id="auroratv.hr">
+    <display-name>Aurora TV</display-name>
+    <icon src="https://auroratv.hr/logo.png" />
+  </channel>
+  <channel id="mariavision.hr">
+    <display-name>Maria Vision Međugorje</display-name>
+    <icon src="https://mariavision.hr/logo.png" />
+  </channel>
+  <channel id="cgtn.int">
+    <display-name>CGTN</display-name>
+    <icon src="https://cgtn.int/logo.png" />
+  </channel>
+  <channel id="bloombergadria.hr">
+    <display-name>Bloomberg Adria</display-name>
+    <icon src="https://bloombergadria.hr/logo.png" />
+  </channel>
+  <channel id="trendtv.hr">
+    <display-name>Trend TV</display-name>
+    <icon src="https://trendtv.hr/logo.png" />
+  </channel>
+  <channel id="jadran.hr">
+    <display-name>Jadran</display-name>
+    <icon src="https://jadran.hr/logo.png" />
+  </channel>
+  <channel id="slavonskatv.hr">
+    <display-name>Slavonska TV</display-name>
+    <icon src="https://slavonskatv.hr/logo.png" />
+  </channel>
+  <channel id="diadoratv.hr">
+    <display-name>Diadora TV</display-name>
+    <icon src="https://diadoratv.hr/logo.png" />
+  </channel>
+</tv>
